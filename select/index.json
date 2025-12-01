@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "murder ／ カゼヒキ",
+  "base_artist": "凍傷のエト",
+  "createdAt": "2025-12-01T09:56:46.465854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Murder of the Universe",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Murder_of_the_Universe_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Murder of the Universe",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Murder_of_the_Universe_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Murder Of The Universe - Live in Utrecht ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Murder_Of_The_Universe_-_Live_in_Utrecht_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Murder of the Universe (Live in Utrecht '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Murder_of_the_Universe_(Live_in_Utrecht_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Murder City",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/05_Murder_City_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do Your Time (feat. Beanie Sigel, Pimp C & C-Murder)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/06_Do_Your_Time_(feat._Beanie_Sigel,_Pimp_C_&_C-Murder)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Murder 2",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/07_Murder_2_Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Murder Dem",
+      "artist": "Pras",
+      "has_synced": false,
+      "path": "select/08_Murder_Dem_Pras.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Serenity In Murder",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/09_Serenity_In_Murder_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Murder of a Small Man",
+      "artist": "The Zephyrs",
+      "has_synced": false,
+      "path": "select/10_Murder_of_a_Small_Man_The_Zephyrs.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Police Get Away Wit Murder",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/11_Police_Get_Away_Wit_Murder_YG.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Murder",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/12_Murder_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Silent Murder",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/13_Silent_Murder_Nas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Will Commit Wolf Murder",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/14_We_Will_Commit_Wolf_Murder_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Please Don't Talk About Murder While I'm Eating",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/15_Please_Don't_Talk_About_Murder_While_I'm_Eating_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lost Art Of Murder",
+      "artist": "Babyshambles",
+      "has_synced": true,
+      "path": "select/16_Lost_Art_Of_Murder_Babyshambles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Murderer (single ver.)",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/pl_01_Murderer_(single_ver.)_SiM.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Murder One",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/pl_02_Murder_One_SiM.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Murder you know",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/pl_03_Murder_you_know_SiM.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Murder Licence",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/pl_04_Murder_Licence_SiM.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Murder (feat. 21 Savage) [Remix]",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/pl_05_Murder_(feat._21_Savage)_[Remix]_SiM.txt"
+    }
+  ]
+}
